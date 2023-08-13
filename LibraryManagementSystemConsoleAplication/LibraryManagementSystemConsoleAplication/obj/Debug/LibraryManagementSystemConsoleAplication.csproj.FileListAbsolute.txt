@@ -1,0 +1,5 @@
+C:\Users\Student\Downloads\Project 1 (forms)\LibraryManagementSystemConsoleAplication\LibraryManagementSystemConsoleAplication\bin\Debug\LibraryManagementSystemConsoleAplication.exe.config
+C:\Users\Student\Downloads\Project 1 (forms)\LibraryManagementSystemConsoleAplication\LibraryManagementSystemConsoleAplication\bin\Debug\LibraryManagementSystemConsoleAplication.exe
+C:\Users\Student\Downloads\Project 1 (forms)\LibraryManagementSystemConsoleAplication\LibraryManagementSystemConsoleAplication\bin\Debug\LibraryManagementSystemConsoleAplication.pdb
+C:\Users\Student\Downloads\Project 1 (forms)\LibraryManagementSystemConsoleAplication\LibraryManagementSystemConsoleAplication\obj\Debug\LibraryManagementSystemConsoleAplication.exe
+C:\Users\Student\Downloads\Project 1 (forms)\LibraryManagementSystemConsoleAplication\LibraryManagementSystemConsoleAplication\obj\Debug\LibraryManagementSystemConsoleAplication.pdb
